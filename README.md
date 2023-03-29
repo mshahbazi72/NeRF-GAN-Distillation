@@ -1,5 +1,5 @@
 # NeRF-GAN-Distillation
-The github repo for the paper "nerf-gan distillation for efficient 3d-aware generation with convolutions".
+The official github repo for the paper "Nerf-Gan Distillation for Efficient 3D-Aware Generation with Convolutions".
 
 <a href="https://arxiv.org/abs/2303.12865">Paper
   
